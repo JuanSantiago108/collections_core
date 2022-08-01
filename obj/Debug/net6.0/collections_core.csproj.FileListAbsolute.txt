@@ -1,0 +1,15 @@
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayOne\collections_core\bin\Debug\net6.0\collections_core.exe
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayOne\collections_core\bin\Debug\net6.0\collections_core.deps.json
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayOne\collections_core\bin\Debug\net6.0\collections_core.runtimeconfig.json
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayOne\collections_core\bin\Debug\net6.0\collections_core.dll
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayOne\collections_core\bin\Debug\net6.0\collections_core.pdb
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayOne\collections_core\obj\Debug\net6.0\collections_core.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayOne\collections_core\obj\Debug\net6.0\collections_core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayOne\collections_core\obj\Debug\net6.0\collections_core.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayOne\collections_core\obj\Debug\net6.0\collections_core.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayOne\collections_core\obj\Debug\net6.0\collections_core.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayOne\collections_core\obj\Debug\net6.0\collections_core.dll
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayOne\collections_core\obj\Debug\net6.0\refint\collections_core.dll
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayOne\collections_core\obj\Debug\net6.0\collections_core.pdb
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayOne\collections_core\obj\Debug\net6.0\collections_core.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayOne\collections_core\obj\Debug\net6.0\ref\collections_core.dll
